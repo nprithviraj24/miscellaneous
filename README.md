@@ -10,7 +10,12 @@ Simple GUI programming with Python. It keeps track of seconds from the time it h
  - Tkinter library. No need to pip install it if Python 3.x is installed
  
 
-### 
-Simple GUI programming with Python.
+### Automating Whatsapp
+Hands on Selenium API
  #### Prerequisites
+ - Basic understanding and usage of APIs
+ - Registered number in WhatsApp.
+ - Selenium supported Browser.
+
+This simple script is aimed to send messages.
 
